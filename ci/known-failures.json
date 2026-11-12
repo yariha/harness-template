@@ -1,0 +1,6 @@
+{
+  "_comment": "CI 도입 시점의 기존 실패. 신규 실패만 차단하기 위한 동결 목록이다. 항목 추가는 리뷰에서 근거를 요구한다. 제거 계획은 artifacts/issues/<date>-ci-baseline-failures-ticket.md 에 둔다.",
+  "_measuredAt": "<commit sha>",
+  "backend": {},
+  "frontend": {}
+}
